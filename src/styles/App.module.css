@@ -1,0 +1,11 @@
+/* src/styles/App.module.css */
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.main {
+  flex: 1;
+  padding-top: 64px; /* navbar height */
+}
